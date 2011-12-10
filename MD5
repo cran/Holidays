@@ -1,0 +1,8 @@
+347f8a8b37b1f0f72dc2fab7564a7947 *DESCRIPTION
+e067b38bc9a106ba1f31f7e67bf005c9 *NAMESPACE
+1c8e257061de184f77695a2f0e1cf975 *R/holidays.R
+8dcb8de62ff000b91d544d13a1d60521 *man/Holidays-package.Rd
+f13d6a98d9a0bb5b60bb880a3cba66cb *tests/Makefile
+6b52226fc2d964040889c27996280af2 *tests/Makefile.win
+1784b50c4ddd21184412eafa49e5f39b *tests/holidays.Rt
+48f296b4e8b3c9aaf7534823d5ede0cf *tests/runtests.R

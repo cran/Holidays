@@ -1,0 +1,8 @@
+# Use Makefile.win rather than Makevars.win because if we use then
+# the latter, then under Windows only, the file Makevars (which
+# contains various targs) does not get automatically created.
+RSHAREMAKEFILE=wintests.mk
+# R_SHARE_DIR is defined when running under Linux, but not Windows...
+R_SHARE_DIR=$(R_HOME)/share
+MAINTESTMAKE=Makefile.win
+include Makefile
