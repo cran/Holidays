@@ -1,8 +1,11 @@
-347f8a8b37b1f0f72dc2fab7564a7947 *DESCRIPTION
+10c6ae22c0a85e59ffa833f4a0182645 *DESCRIPTION
 e067b38bc9a106ba1f31f7e67bf005c9 *NAMESPACE
-1c8e257061de184f77695a2f0e1cf975 *R/holidays.R
-8dcb8de62ff000b91d544d13a1d60521 *man/Holidays-package.Rd
-f13d6a98d9a0bb5b60bb880a3cba66cb *tests/Makefile
+bd7ec06f6a00982d6725971d84266f4f *NEWS
+879d8923ea8927aad68fc50b94aed7f6 *R/holidays.R
+d41d8cd98f00b204e9800998ecf8427e *inst/sccversion.txt
+d41d8cd98f00b204e9800998ecf8427e *inst/svnversion.txt
+4ef8ac001d728b7e12b425a93795ec1c *man/Holidays-package.Rd
+9c189060a07d26bf982e74574143c042 *tests/Makefile
 6b52226fc2d964040889c27996280af2 *tests/Makefile.win
-1784b50c4ddd21184412eafa49e5f39b *tests/holidays.Rt
+d66c67753a0b82a035845c4b39255ab9 *tests/holidays.Rt
 48f296b4e8b3c9aaf7534823d5ede0cf *tests/runtests.R

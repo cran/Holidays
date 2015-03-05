@@ -30,6 +30,6 @@ From the TimeWarp package: \code{\link[TimeWarp]{holidays}},
 }
 \examples{
 # View counts of registered holidays by year
-sapply(as.character(1998:2012), function(y) sapply(allHolidays(), function(h) length(holidays(y, h, silent=TRUE))))
+sapply(as.character(1998:2012), function(y)
+       sapply(allHolidays(), function(h) length(holidays(y, h, silent=TRUE))))
 }
-
