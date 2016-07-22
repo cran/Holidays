@@ -1,3 +1,6 @@
+Version 1.0-7: 2016-07-20
+    o   fix problems identified in latest R CMD check
+
 Version 1.0-2: 2013-03-20
     o add USFed holidays
 
